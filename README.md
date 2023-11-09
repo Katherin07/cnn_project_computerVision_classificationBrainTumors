@@ -1,0 +1,2 @@
+# cnn_project_computerVision_classificationBrainTumors
+Project objective is to build a CNN model that would classify whether a patient has a brain tumor or not based on an MRI. To achieve this, MRI image datasets will be used to train, validate and test a CNN model that can classify patient images. The architecture and weights of the VGG-16 model will be used to train the model for this binary problem.
